@@ -39,6 +39,9 @@ li {
     outline: none;
 }
 
+input:hover {
+    box-shadow: 2px 2px 10px gray;
+}
 
 a {
     color: black;
